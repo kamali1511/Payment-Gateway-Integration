@@ -1,13 +1,13 @@
 # Sparks-Foundation-Project
 
-# Payment Gateway Integration is developed using HTML,CSS. For payment gateway,Razorpay is used.
+Payment Gateway Integration is developed using HTML,CSS. For payment gateway,Razorpay is used.
 
-# For demo card use
+For demo card use
 
-# Card No:- 4111 1111 1111 1111
+Card No:- 4111 1111 1111 1111
 
-# cvv:- Any
+cvv:- Any
 
-# Validity:- Any
+Validity:- Any
 
-# website link - https://voice-for-voiceless.netlify.app/
+website link - https://voice-for-voiceless.netlify.app/
